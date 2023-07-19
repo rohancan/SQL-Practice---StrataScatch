@@ -6,3 +6,7 @@ Write a query that calculates the difference between the highest salaries found 
 ## Task 2
 Find the highest market value for each sector.
 Output the sector name along with the result.
+
+## Task 3
+Find the number of employees in each department. Output the department name along with the correponding number of employees. 
+
